@@ -8,7 +8,7 @@ disqusShortname = ""
 
 [params]
 	name = "Ricardo Longa"
-	bio = "Testing..."
+	bio = ""
 	twitter = "ricardolonga"
 	enableRSS = true
 
