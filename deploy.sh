@@ -18,9 +18,8 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-cd public
-
-git add -a
+cd public/
+git add -A
 git commit -m "$msg"
 git push origin master
 
