@@ -4,7 +4,12 @@
 
 ### Theme
 
-	https://github.com/digitalcraftsman/hugo-cactus-theme/
+	1 - https://github.com/digitalcraftsman/hugo-cactus-theme/
+	2 - https://github.com/jpescador/hugo-future-imperfect/
+	
+### Theme candidato
+
+    http://themes.gohugo.io/crisp/
 
 ### Registro.br
 
