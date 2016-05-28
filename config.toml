@@ -1,47 +1,58 @@
 baseurl = "https://ricardolonga.github.io/"
 languageCode = "en-us"
 title = "Ricardo Longa"
-theme = "hugo-cactus-theme"
+theme = "hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 3
 googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+disqusShortname = "shortname"
 
 [params]
-	name = "Ricardo Longa"
-	bio = "I'm an Android and Backend developer..."
-	twitter = "ricardolonga"
-	enableRSS = true
+    navbarTitle          = "Ricardo Longa"
+    socialAppearAtTop    = true
+    socialAppearAtBottom = true
+    viewMorePostLink     = "/post/"
 
-	customCSS = []
-	customJS  = []
+    categoriesByCount    = true
+    includeReadingTime   = true
+    loadFavicon          = false
+    faviconVersion       = ""
+    customCSS            = ["/css/main.min.css"]
+    customJS             = ["/js/main.min.js"]
 
-	# Navigation links
-	home = ""
-	about = ""
-	subscribe = ""
-	
-	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
-	copyright = ""
-	
-	# Sharing options and author information in posts
-	aboutAuthor = "I'm an Android and Backend developer..."
-	tweet = ""
-	share = ""
+[params.intro]
+    header    = "Ricardo Longa"
+    paragraph = "Comodismo é o pior investimento a longo prazo. (Ricardo Longa)"
+    about     = "I'm an Java (Android) and Golang (backend) developer."
 
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
+[params.intro.pic]
+    src       = "/images/avatar.png"
+    circle    = false
+    imperfect = false
+    width     = ""
+    alt       = "Ricardo Longa"
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
-	
-	# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    	socialIconStyle = ""
+[params.postAmount]
+    sidebar = 2
 
-# Add additional social link entries underneath
+[[menu.main]]
+    name = "Posts"
+    url = "/post"
+    identifier = "fa fa-newspaper-o"
+    weight = 1
+
+#[[menu.main]]
+#    name = "Categories"
+#    url = "/categories"
+#    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
 [social]
-    twitter  = "https://www.twitter.com/ricardolonga"
-    github   = "https://www.github.com/ricardolonga"
+    github          = "ricardolonga"
+    linkedin        = "ricardolonga"
+    slideshare      = "ricardolonga"
+    twitter         = "ricardolonga"
