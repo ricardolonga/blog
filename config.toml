@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 googleAnalytics = ""
-disqusShortname = "shortname"
+disqusShortname = "ricardolonga"
 
 [params]
     navbarTitle          = "Ricardo Longa"
