@@ -12,6 +12,6 @@ Pela primeira vez na história do [The Developers Conference](http://www.thedeve
 
 O evento acontecerá de 05 a 09 de Julho e a trilha de [Golang será no último dia](http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilhas "Grade de trilhas TDC São Paulo"), sábado.
 
-Gostaria de lembrá-los que o [Call4Papers](www.thedevelopersconference.com.br/tdc/2016/saopaulo/call4papers "Call4Papers TDC São Paulo") será finalizado no dia 04 de Junho e convidá-los a submeterem suas propostas de palestras.
+Gostaria de lembrá-los que o [Call4Papers](http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/call4papers "Call4Papers TDC São Paulo") será finalizado no dia 04 de Junho e convidá-los a submeterem suas propostas de palestras.
 
 Um abraço,
