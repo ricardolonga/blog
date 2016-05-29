@@ -1,5 +1,5 @@
 baseurl = "https://ricardolonga.github.io/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Ricardo Longa"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
@@ -41,15 +41,15 @@ disqusShortname = "ricardolonga"
     identifier = "fa fa-newspaper-o"
     weight = 1
 
-#[[menu.main]]
-#    name = "Categories"
-#    url = "/categories"
-#    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = 2
 
 [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 3
 
 [social]
     github          = "ricardolonga"

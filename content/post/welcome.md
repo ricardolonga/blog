@@ -1,7 +1,7 @@
 +++
 date = "2016-05-27T15:16:54-03:00"
 description = ""
-title = "Welcome"
+title = "Bem vindo | Welcome"
 
 +++
 
